@@ -1,0 +1,54 @@
+.bg-color {
+  background-color: #c0c0c0;
+}
+.btn-container {
+  width: 10%;
+  display: flex;
+  align-self: center;
+}
+.txt-clor {
+  color: #05445e;
+}
+.text-style {
+  font-size: 0.5rem;
+  font-weight: 700;
+}
+.fa-lock,
+.text-color,
+.fa-user-circle-o {
+  color: #2076d2;
+  font-size: 24px;
+  font-weight: 700;
+}
+.hr {
+  border: 2px solid;
+  width: 25%;
+  margin: 1% auto 2%;
+  color: #2076d2;
+}
+.signup-wrapper {
+  width: 60%;
+  margin: 0 auto;
+  line-height: 5;
+}
+.already-txt {
+  color: #2076d2;
+  float: right;
+  margin-top: -30px;
+  font-size: 12px;
+}
+.show-hide-pwd-wrapper {
+  position: relative;
+}
+.eyeIcon {
+  width: 25px;
+  height: 20px;
+  position: absolute;
+  top: 18px;
+  right: 6px;
+}
+.sign-in-txt,
+.sign-in-txt:hover {
+  color: #2076d2;
+  font-weight: bold;
+}
